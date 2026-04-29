@@ -1,2 +1,1 @@
-# OmniOCR
-OmniOCR: Generalist OCR for Ethnic Minority Languages
+# OmniOCR: Generalist OCR for Ethnic Minority Languages
