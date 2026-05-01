@@ -1,1 +1,1 @@
-
+The process for Yi script is similar to that for Tibetan script; simply adjusting different LoRa parameters will achieve good results.
