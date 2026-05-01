@@ -1,1 +1,1 @@
-The process for Yi script is similar to that for Tibetan script; simply adjusting different LoRa parameters will achieve good results.
+Drawing parallels from Tibetan analysis, the processing of Yi-script involves a multi-faceted approach centered on linguistic specificity. This entails implementing customized segmentation paradigms across diverse corpora, complemented by the task-specific fine-tuning of LoRA hyperparameters and the strategic design of prompts to enhance model interpretability in low-resource settings.
