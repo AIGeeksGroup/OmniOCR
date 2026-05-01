@@ -1,0 +1,1 @@
+Processing Dongba script mirrors the technical workflow of Tibetan script, requiring customized segmentation strategies, precise LoRA parameter tuning, and targeted prompt engineering to accommodate different language datasets.
